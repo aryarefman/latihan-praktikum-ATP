@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 int main() {
-    char s[200000], b[200000];
+    char s[20000], b[20000];
     scanf("%s %s", s, b);
 
     int i = 0;
